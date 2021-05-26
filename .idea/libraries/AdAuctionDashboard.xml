@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdAuctionDashboard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AdAuctionDashboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
